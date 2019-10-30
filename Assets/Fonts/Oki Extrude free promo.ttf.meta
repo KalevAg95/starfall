@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: cc604952e939e47109f74b55a8bd45c9
+timeCreated: 1518997716
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Oki
+  fontNames:
+  - Oki
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

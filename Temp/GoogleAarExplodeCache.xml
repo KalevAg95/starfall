@@ -1,0 +1,167 @@
+<aars>
+  <explodeData>
+    <aar>com.android.support.support-annotations-25.2.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000-06:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.vvs.starfall</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-annotations-25.2.0.jar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-compat-25.2.0</aar>
+    <modificationTime>2018-04-02T22:19:07.0000000-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.vvs.starfall</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-compat-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-core-ui-25.2.0</aar>
+    <modificationTime>2018-04-02T22:19:07.0000000-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.vvs.starfall</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-core-ui-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-core-utils-25.2.0</aar>
+    <modificationTime>2018-04-02T22:19:07.0000000-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.vvs.starfall</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-core-utils-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-fragment-25.2.0</aar>
+    <modificationTime>2018-04-02T22:19:07.0000000-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.vvs.starfall</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-fragment-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-media-compat-25.2.0</aar>
+    <modificationTime>2018-04-02T22:19:07.0000000-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.vvs.starfall</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-media-compat-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.android.support.support-v4-25.2.0</aar>
+    <modificationTime>2018-04-02T22:19:07.0000000-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.vvs.starfall</bundleId>
+    <path>Assets/Plugins/Android/com.android.support.support-v4-25.2.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-11.8.0</aar>
+    <modificationTime>2018-04-02T22:19:07.0000000-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.vvs.starfall</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-11.8.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-license-11.8.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000-06:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.vvs.starfall</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-license-11.8.0</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-lite-11.8.0</aar>
+    <modificationTime>2018-04-02T22:19:07.0000000-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.vvs.starfall</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-lite-11.8.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-ads-lite-license-11.8.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000-06:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.vvs.starfall</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-ads-lite-license-11.8.0</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-basement-11.8.0</aar>
+    <modificationTime>2018-04-02T22:19:07.0000000-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.vvs.starfall</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-basement-11.8.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-basement-license-11.8.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000-06:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.vvs.starfall</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-basement-license-11.8.0</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-gass-11.8.0</aar>
+    <modificationTime>2018-04-02T22:19:07.0000000-05:00</modificationTime>
+    <explode>false</explode>
+    <bundleId>com.vvs.starfall</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-gass-11.8.0.aar</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+  <explodeData>
+    <aar>com.google.android.gms.play-services-gass-license-11.8.0</aar>
+    <modificationTime>0001-01-01T00:00:00.0000000-06:00</modificationTime>
+    <explode>true</explode>
+    <bundleId>com.vvs.starfall</bundleId>
+    <path>Assets/Plugins/Android/com.google.android.gms.play-services-gass-license-11.8.0</path>
+    <targetAbi>universal</targetAbi>
+    <gradleBuildEnabled>false</gradleBuildEnabled>
+    <gradleExport>false</gradleExport>
+    <ignoredVersion />
+  </explodeData>
+</aars>
